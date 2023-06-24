@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Tensorflow**
 
-- 📫 How to reach me **0x0varun**
+- 📫 How to reach me **0x0varun0x0Sgmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
