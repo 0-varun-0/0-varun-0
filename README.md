@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Tensorflow**
 
-- 📫 How to reach me **0x0varun0x0@gmail.com**
+- 📫 How to reach me EMAIL:**0x0varun0x0@gmail.com**
 
 <h3 align="left">Connect with me: instagram : @0_.varun</h3>
 <p align="left">
