@@ -6,9 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/young-programmer-concentrated-working-project-developing-programming-coding-technologies-screen-with-codes-developer-work-with-task-geek-coding-software-with-laptop-pc-vector-illust_145666-1608.jpg">
 - 🔭 I’m currently working on ML Frameworks
 
-- 🌱 I’m currently learning **Tensorflow , keras , Pytorch , YOLO**
+- 🌱 I’m currently learning **Tensorflow , keras , Pytorch **
 
-- 🤝 I’m looking for help with **Tensorflow**
+- 🤝 I’m looking for help with **YOLO**
 
 - 📫 How to reach me EMAIL:**0x0varun0x0@gmail.com**
 
