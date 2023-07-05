@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
 <h1 align="center">Hi 👋, I'm VARUN P C</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Passionate Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0-varun-0&label=Profile%20views&color=0e75b6&style=flat" alt="0-varun-0" /> </p>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/young-programmer-concentrated-working-project-developing-programming-coding-technologies-screen-with-codes-developer-work-with-task-geek-coding-software-with-laptop-pc-vector-illust_145666-1608.jpg">
