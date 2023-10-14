@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm VARUN P C</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Rookie Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0-varun-0&label=Profile%20views&color=0e75b6&style=flat" alt="0-varun-0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0-varun-0" alt="0-varun-0" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/0xvarunx0" target="blank"><img src="https://img.shields.io/twitter/follow/0xvarunx0?logo=twitter&style=for-the-badge" alt="0xvarunx0" /></a> </p>
-
-- 🔭 I’m currently working on **ML models**
 
 - 🌱 I’m currently learning **Tensorflow , keras , Pytorch**
 
