@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/0xvarunx0" target="blank"><img src="https://img.shields.io/twitter/follow/0xvarunx0?logo=twitter&style=for-the-badge" alt="0xvarunx0" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflow , keras , Pytorch**
+- 🌱 I’m currently learning **Flutter , Dart**
 
-- 🤝 I’m looking for help with **Tensorflow**
+- 🤝 I’m looking for help with **Tensorflow , pytorch **
 
-- 📫 How to reach me **0x0varun**
+- 📫 How to reach me **⤵️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
