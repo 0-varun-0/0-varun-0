@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GoLang*
 
-- 🤝 I’m looking for help with **Tensorflow , pytorch **
+- 🤝 I’m looking for help with **Tensorflow**
 
 - 📫 How to reach me **⤵️**
 
