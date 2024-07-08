@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xvarunx0" target="blank"><img src="https://img.shields.io/twitter/follow/0xvarunx0?logo=twitter&style=for-the-badge" alt="0xvarunx0" /></a> </p>
 
-- 🌱 I’m currently learning **GoLang*
+- 🌱 I’m currently learning **GoLang**
 
 - 🤝 I’m looking for help with **Tensorflow**
 
