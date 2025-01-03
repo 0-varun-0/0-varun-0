@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 🤝 I’m looking for help with **jet pack conpose**
+- 🤝 I’m looking for help with **Jetpack Compose**
 
 - 📫 How to reach me **⤵️**
 
