@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [instaprint](https://github.com/0-varun-0/Instaprint.git)
+- 🔭 I’m currently working on [Papr](https://github.com/0-varun-0/Instaprint.git)
 
 - 🌱 I’m currently learning **Jetpack compose ,**
 
